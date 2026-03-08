@@ -25,4 +25,4 @@ This privacy policy may be updated from time to time. Any changes will be posted
 Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
 
-[selvaci84@gmail.com](mailto:selvaci84@gmail.com)
+[schwart049@gmail.com](mailto:schwart049@gmail.com)
