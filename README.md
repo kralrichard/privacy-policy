@@ -1,19 +1,28 @@
-# privacy-policy<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Privacy Policy</title>
-</head>
-<body>
-    <h1>Privacy Policy</h1>
+Privacy Policy for Circle
 
-    <p>This game does not collect, store, or share any personal data.</p>
+Developer: gezen_bilir
 
-    <p>No login, no ads, no analytics, no location data, and no third-party services are used.</p>
+Circle is a mobile game developed by gezen_bilir. This privacy policy explains how the app handles user information.
 
-    <p>If you have any questions, you can contact us at:</p>
+Data Collection
+Circle does not collect, store, or share any personal data from users.
 
-    <p><strong>schwart049@gmail.com</strong></p>
+Advertising
+This app may display advertisements provided by third-party services such as Google AdMob. These services may collect limited information in accordance with their own privacy policies in order to provide relevant ads.
 
-</body>
-</html>
+Third-Party Services
+The app may use third-party services including Google AdMob. These services may collect information used to identify your device.
+
+Security
+We value your trust and strive to use commercially acceptable means of protecting any information processed by third-party services.
+
+Children's Privacy
+Circle does not knowingly collect personal information from children.
+
+Changes to This Privacy Policy
+This privacy policy may be updated from time to time. Any changes will be posted on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:
+
+[selvaci84@gmail.com](mailto:selvaci84@gmail.com)
